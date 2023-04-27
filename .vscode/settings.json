@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src","Test"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\diak\\Desktop\\javastuff/**/*.jar"
+        ],
+        "exclude": [
+        ]
+    }
+}
